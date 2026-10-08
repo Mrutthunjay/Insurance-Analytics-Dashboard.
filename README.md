@@ -62,7 +62,7 @@ The objective of this project is to transform insurance business data into an in
 | File | Description |
 |---|---|
 - <a href="https://github.com/Mrutthunjay/Insurance-Analytics-Dashboard./blob/main/Insurence%20dataset%20-%20zip.zip">Dataset</a>| Power BI dashboard and data model |
-| Dashboard preview |
+- <a href="https://github.com/Mrutthunjay/Insurance-Analytics-Dashboard./blob/main/Screenshot%202026-10-08%20145738.png">View Dashboard| Dashboard preview |
 
 ## 📌 Conclusion
 
